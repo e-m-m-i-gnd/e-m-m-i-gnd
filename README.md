@@ -1,14 +1,16 @@
-## Diego Emiliano Gervacio Negrete ![Wave]([https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/Hand%20Wave.gif](https://avatars.githubusercontent.com/u/184921919?v=4))
+## Diego Emiliano Gervacio Negrete ![New Image](https://avatars.githubusercontent.com/u/184921919?v=4)
 
-### 👨🏻‍💻 &nbsp;Sobre mí
+### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;Soy estudiante de Ingeniería en Gestión y Desarrollo de Software con experiencia en el desarrollo de software backend, frontend y móvil.  
-💡 &nbsp;Me gusta explorar nuevas tecnologías, desde lenguajes de programación hasta inteligencia artificial y videojuegos, participando activamente en hackatones y concursos de programación.  
-🎓 &nbsp;Actualmente, estudio en la Universidad Tecnológica del Suroeste de Guanajuato y participo en proyectos innovadores.  
-🌱 &nbsp;Estoy aprendiendo más sobre Inteligencia Artificial, APIs y desarrollo de videojuegos.  
-✍️ &nbsp;En mi tiempo libre, me gusta experimentar con tecnologías como IA y GPTs.  
-📫 &nbsp;Puedes contactarme en [mi correo](mailto:diegogemiliano@gmail.com) o encontrarme en [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/diego-emiliano-gervacio-negrete-b9890b332/)).  
-📄 &nbsp;Mira mi [CV](link-al-cv) para más detalles.
+👨‍💻 &nbsp;I am a Software Engineering student with practical experience in backend, frontend, and mobile development.  
+💡 &nbsp;I combine my passion for exploring, traveling, and learning new technologies to solve real-world problems, especially in projects related to environmental protection.  
+🎓 &nbsp;Currently, I am studying at the Universidad Tecnológica del Suroeste de Guanajuato, where I participate in projects that integrate technology and sustainability.  
+🌱 &nbsp;I am constantly learning and developing my skills in areas such as artificial intelligence, game development, and emerging technologies.  
+🌍 &nbsp;My projects aim to make a positive impact by using programming to support environmental initiatives.  
+📫 &nbsp;Feel free to contact me at [my email](mailto:diegogemiliano@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/diego-emiliano-gervacio-negrete-b9890b332/).  
+📄 &nbsp;Check out my [Résumé](link-to-cv) for more details about my skills and projects.
+
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -58,10 +60,10 @@
 ### ⚙️ &nbsp;Estadísticas de GitHub
 
 <p align="center">
-  <a href="[https://github.com/tu-usuario](https://github.com/e-m-m-i-gnd)">
+  <a href="[(https://github.com/e-m-m-i-gnd)]">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="[https://github.com/tu-usuario](https://github.com/e-m-m-i-gnd)">
+  <a href="[https://github.com/e-m-m-i-gnd]">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
@@ -71,7 +73,7 @@
 ### 🤝🏻 &nbsp;Conecta conmigo
 
 <p align="center">
-<a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/diego-emiliano-gervacio-negrete-b9890b332/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:diegogemiliano@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
