@@ -8,7 +8,7 @@
 🌱 &nbsp;I am constantly learning and developing my skills in areas such as artificial intelligence, game development, and emerging technologies.  
 🌍 &nbsp;My projects aim to make a positive impact by using programming to support environmental initiatives.  
 📫 &nbsp;Feel free to contact me at [my email](mailto:diegogemiliano@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/diego-emiliano-gervacio-negrete-b9890b332/).  
-📄 &nbsp;Check out my [Résumé](link-to-cv) for more details about my skills and projects.
+📄 &nbsp;Check out my [Resumen](link-to-cv) for more details about my skills and projects.
 
 
 
