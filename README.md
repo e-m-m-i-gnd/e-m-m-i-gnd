@@ -1,4 +1,4 @@
-## Diego Emiliano Gervacio Negrete ![New Image](https://avatars.githubusercontent.com/u/184921919?v=4)
+## Hi there, Im Diego Emiliano Gervacio Negrete 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -61,12 +61,13 @@
 
 <p align="center">
   <a href="[(https://github.com/e-m-m-i-gnd)]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-m-m-i-gnd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="[https://github.com/e-m-m-i-gnd]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-m-m-i-gnd&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
 
 ---
 
