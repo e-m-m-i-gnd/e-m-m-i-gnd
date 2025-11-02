@@ -22,15 +22,6 @@
 
 ---
 
-### 🧠 &nbsp;Learning & Certifications
-
-- ☁️ **AWS Cloud Practitioner Essentials** *(In Progress)*  
-- 🛡️ **Cisco: Introduction to Cybersecurity** *(2025)*  
-- 🐍 **Google: Python Programming Foundations** *(2024)*  
-- 🧠 **Hack IA 2024** · **Talent-TIC 2023**
-
----
-
 ### ⚙️ &nbsp;GitHub Stats
 
 <!-- Stats principales -->
