@@ -22,19 +22,6 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Stats
-
-<!-- Stats principales -->
-<img src="https://github-readme-stats.vercel.app/api?username=e-m-m-i-gnd&show_icons=true&theme=transparent&hide_border=true" />
-
-<!-- Racha de contribuciones (endpoint nuevo) -->
-<img src="https://streak-stats.demolab.com?user=e-m-m-i-gnd&theme=transparent&hide_border=true" />
-
-<!-- Lenguajes más usados -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-m-m-i-gnd&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-
----
-
 <p align="center">
   <i>“Building technology with purpose — connecting the digital world with the real one.”</i><br>
   🌱 <i>Always learning, always creating.</i>
